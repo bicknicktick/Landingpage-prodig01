@@ -8,7 +8,7 @@
 
 *Curated digital products for marketing and business acceleration*
 
-[🌐 **Live Demo**](https://prodigital-lab.example.com) • [📱 **Mobile Preview**](#mobile-preview) • [⚡ **Quick Start**](#quick-start)
+[🌐 **Live Demo**](https://products.bitzy.id) • [📱 **Mobile Preview**]([#mobile-preview](https://products.bitzy.id)) • [⚡ **Quick Start**](#quick-start)
 
 </div>
 
